@@ -9,7 +9,8 @@ This repository cover many concepts like:
 * Implementation of Zhang-Seun’s Thinning algorithm, for thinning and extract the skelton of an object
 * Histogram Equalization, Binary Image Thresholding, and Image Clustering using K-means
 * Image Denoising using filters and Gausian Pyramids
-* Implementing a Neural Network from Scratch using OOP
+* Implementing a Neural Network with customizable layers and activation functions from Scratch using OOP
+* Implementing K-means from scratch using OOP
 
 ## Acknowledgments
 
