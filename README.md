@@ -4,7 +4,7 @@ Useful notebooks that covers introductory concepts in Computer Vision and Machin
 
 ## Description
 
-This repository cover many concepts like:
+This repository covers many concepts like:
 * PCA, finding Eigenfaces of a collection of images
 * Implementation of Zhang-Seun’s Thinning algorithm, for thinning and extract the skelton of an object
 * Histogram Equalization, Binary Image Thresholding, and Image Clustering using K-means
